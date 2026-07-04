@@ -24,6 +24,7 @@ Interes en bases de datos
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=thomas015&layout=compact&hide_title=true&langs_count=4&hide_values=true&theme=shades-of-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=thomas015&layout=compact&hide_title=true&langs_count=4&hide_values=true&theme=shades-of-purple)
+***
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=thomas015&rank_icon=default&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=shades-of-purple)](https://github-stats-extended.vercel.app/api?username=thomas015&rank_icon=default&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=shades-of-purple)
 
 <!--
